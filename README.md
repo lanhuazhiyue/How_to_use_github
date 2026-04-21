@@ -11,7 +11,7 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ```
 将生成的公钥添加到 GitHub 账户中：
 - 复制公钥内容（通常位于~/.ssh/id_rsa.pub文件中）。
-- 登录 GitHub，访问 SSH and GPG keys 设置页面。
+- 登录 GitHub，访问 [SSH and GPG keys 设置页面](https://github.com/settings/ssh/new)。
 - 粘贴公钥并保存
 配置基本信息
 ```shell
