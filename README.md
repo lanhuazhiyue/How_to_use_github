@@ -1,4 +1,6 @@
 # How_to_use_github
+windows 直接使用[GitHubDesktop](https://desktop.github.com/download/)
+
 关于github的一些操作命令
 
 基础环境为 ubuntu20.04
