@@ -31,6 +31,7 @@ git checkout <branch>
 # 提交新的修改到远程仓库
 ```shell
 git add .
+git rm --cached your-folder-name
 git commit -m "first commit"
 git branch
 git push origin <branch>
