@@ -36,3 +36,6 @@ git commit -m "first commit"
 git branch
 git push origin <branch>
 ```
+# 忽略上传某些文件或文件夹
+新建.gitignore文件，文件内键入的路径不会被跟踪上传
+对于已经被跟踪的文件可以git rm --cached <文件路径>
